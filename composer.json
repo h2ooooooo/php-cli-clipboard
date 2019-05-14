@@ -1,0 +1,19 @@
+{
+    "name": "jalsoedesign/cli-clipboard",
+    "description": "Enables a clipboard API to get/set and clear the clipboard on various platforms",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Andreas Jalsoe",
+            "email": "andreas@jalsoedesign.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "jalsoedesign\\CliClipboard\\": "src/"
+        }
+    },
+    "require": {
+        "tivie/php-os-detector": "^1.1"
+    }
+}
