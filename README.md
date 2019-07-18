@@ -1,6 +1,6 @@
 # php-cli-clipboard
 
-Enables a clipboard API to get/set and clear the clipboard on various platforms
+Enables a clipboard API to get, set and clear the clipboard on various platforms ([currently Windows and OSX](https://github.com/h2ooooooo/php-cli-clipboard#platform-support)).
 
 ## Platform Support
 
