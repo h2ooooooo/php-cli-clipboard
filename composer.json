@@ -2,6 +2,7 @@
     "name": "jalsoedesign/cli-clipboard",
     "description": "Enables a clipboard API to get/set and clear the clipboard on various platforms",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Andreas Jalsoe",
