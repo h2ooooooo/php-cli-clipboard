@@ -12,6 +12,10 @@ Enables a clipboard API to get/set and clear the clipboard on various platforms
 
 Unsupported platforms will use a MockClipboardApi api, that will mimick the clipboard, but won't actually get/set/clear anything apart from its local state.
 
+## Installation
+
+    composer require jalsoedesign/cli-clipboard
+  
 ## Usage
 
 ### Get the current clipboard contents
